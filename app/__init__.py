@@ -1,0 +1,1 @@
+"""OpenCV object tracking package."""
